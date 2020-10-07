@@ -6,8 +6,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## This app was deployed in
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://lit-tundra-50685.herokuapp.com)
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://ietilab11.z20.web.core.windows.net)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://taskplanner11.azurewebsites.net/api/add-task?code=IRli1suo1CLj1VUGkfKp7UUZWiVuvlnrN1KM8Hcn78tNKPMUhk2Fqw==)
+[![firebase](https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-128.png)](https://lab7ieti.web.app/)
+
+
+## Workshop Walktrough 
+
+https://github.com/ieti-eci/2.2-task-planner-api-part-2
 
 ## Available Scripts
 

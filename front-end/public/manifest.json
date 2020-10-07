@@ -1,0 +1,8 @@
+{
+  "name": "Task Planner",
+  "short_name": "TaskP",
+  "lang": "es-419",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#E6E6FA"
+}
